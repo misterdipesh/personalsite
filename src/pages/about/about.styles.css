@@ -1,0 +1,21 @@
+.about {
+  background-color: transparent;
+  font-size: 1.1em;
+  color:#12FFEF;
+
+}
+
+.profile {
+ max-width: 18em;
+  border:solid;
+  border-color:#12FFEF;
+
+ 
+}
+
+.my-details {
+  background-color: rgba(0, 0, 0, 1);
+  border:solid;
+  border-color:#12FFEF;
+}
+

@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\assets",
+    "\\src\\components\\my-navbar",
+    "\\src\\components\\projects-timeline",
+    "\\src\\components\\scroll-down",
+    "\\src\\components\\title-message",
+    "\\src\\pages",
+    "\\src\\pages\\about",
+    "\\src\\pages\\skills"
+  ],
+  "SelectedNode": "\\src\\pages\\skills\\skills.styles.css",
+  "PreviewInSolutionExplorer": false
+}
